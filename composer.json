@@ -1,5 +1,5 @@
 {
-    "name": "hafosft/jquery-bundle",
+    "name": "hafsoft/jquery-bundle",
     "description": "jQuery Bundle for Symfony",
     "keywords": ["jquery","bundle"],
     "type": "symfony-bundle",
